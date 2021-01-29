@@ -1,0 +1,36 @@
+.block{
+    background: rgb(70, 146, 70);
+    width: 300px;
+    height: 200px;
+}
+
+.block2{
+    background: rgb(145, 145, 55);
+    width: 300px;
+    height: 200px;
+}
+
+.block3{
+    background: lightgray;
+    width: 300px;
+    height: 200px;
+}
+
+
+.changeBlock{
+    visibility: hidden;
+    width: 200px;
+    height: 100px;
+}
+
+.changeBlock2{
+    visibility: hidden;
+    width: 200px;
+    height: 100px;
+}
+
+.changeBlock3{
+    visibility: hidden;
+    width: 200px;
+    height: 100px;
+}
